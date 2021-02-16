@@ -9,7 +9,7 @@ The projects are from this lesson: https://www.udemy.com/course/scratch-game-pro
 5. Choose the file you want to load.
 6. Play!
 
-## Program Introductions
+## Projects Description
 ### Basketball_game_2_players.sb3
 Description: Play with another friend, and shot balls into a moving hoop. The first player to get 10 shots wins.
 
